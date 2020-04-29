@@ -1,7 +1,11 @@
 # Back-end -> To Be Hero
 
 [Semana Omnistack 11](https://rocketseat.com.br/)
+
 Learning concepts about Node.js, React and React Native.
+
+## 🖥 Techs
+Node.js | Javascript | ReactJS | JEST
 
 ## Instructions
 
@@ -16,8 +20,9 @@ First, if you don't have Node.js you'll need to install it:
 Once you've got Node installed:
 * `git clone git@github.com/Igorth/back-end-be-the-hero`
 * `cd back-end-be-the-hero`
-* `npm install` to install dependencies
-* `npm start` to start the project
+* `yarn` to install dependencies
+* `yarn start` to start the project
+* `yarn test` to start the tests
 * Check out the repo to see the git history: `https://github.com/Igorth/back-end-be-the-hero`
 
 
@@ -27,9 +32,7 @@ Please read [CONTRIBUTING.md](https://github.com/Igorth/back-end-be-the-hero/blo
 
 ## Authors
 
-* **Igor Dias** - *Initial work* - [Be The Hero](https://github.com/Igorth/back-end-be-the-hero)
-
-See also the list of [contributors](https://github.com/your/back-end-be-the-hero/contributors) who participated in this project.
+* [**Igor Dias**](https://www.linkedin.com/in/igordiasth/)
 
 ## License
 
